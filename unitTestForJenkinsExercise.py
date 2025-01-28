@@ -2,7 +2,7 @@
 
 # test_calculator.py
 import unittest
-from calculator import add, subtract, multiply, divide
+from codeForJenkinsExersice import add, subtract, multiply, divide
 
 class TestCalculator(unittest.TestCase):
     def test_add(self):
